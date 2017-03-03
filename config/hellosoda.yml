@@ -1,0 +1,36 @@
+# Please insert new items alphabetically.
+
+seal:
+  members:
+    - yaelbrookes
+
+  channel:
+    "#seal"
+
+  exclude_titles:
+    - "[DO NOT MERGE]"
+    - "Don't merge"
+    - DO NOT MERGE
+    - WIP
+
+  use_labels: true
+
+  exclude_labels:
+    - "[DO NOT MERGE]"
+    - "Don't merge"
+    - DO NOT MERGE
+
+  quotes:
+    - Any excuse for cake - or generally celebrating awesomeness
+    - Never be afraid to suggest better ways of working.
+    - Be nice and respect each other. Support each other.
+    - Don’t be a silo of knowledge
+    - Ask if anyone needs support before picking up new work
+    - Be considerate to remote workers
+    - Avoid gendered language when it isn’t needed
+    - Turn up to meetings on time, one person speaks at a time
+    - Stories should start with a user need
+    - It’s not done until it’s in the hands of the people who need it
+    - When working at home, dial in to stand-up
+    - Keep things up-to-date - like the digital wall, team calendar
+    - Communicate what you’re working on - make sure you don’t leave people out of the loop
